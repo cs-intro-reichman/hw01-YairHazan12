@@ -3,7 +3,7 @@ public class AddTwo {
         int x, y;
         x = Integer.parseInt(args[0]);
         y = Integer.parseInt(args[1]);
-        System.out.println(x);
+        System.out.print(x);
         System.out.print(" + ");
         System.out.print(y);
         System.out.print(" = ");
